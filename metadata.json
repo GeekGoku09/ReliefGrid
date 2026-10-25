@@ -1,0 +1,6 @@
+{
+  "name": "ReliefGrid — Crisis Aid & Resource Logistics Platform",
+  "description": "AI-powered humanitarian emergency coordination and mutual aid distribution engine that parses unstructured SOS calls, optimizes supply matching, and coordinates field rescue dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
